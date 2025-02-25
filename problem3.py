@@ -1,3 +1,6 @@
+#Return True/False whether the number passed is even 
+#Don't accept strings or anything that's not an int 
+
 def is_even(n):
     return n % 2 == 0
 
